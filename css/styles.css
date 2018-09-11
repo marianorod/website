@@ -585,3 +585,14 @@ footer h3 img {
   position: relative;
   bottom: -158px;
 }
+
+.qr {
+  padding: 20px;
+  background-color: white;
+  width: unset;
+  }
+
+  img.qr {
+  width: unset !important;
+  }
+
