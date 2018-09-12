@@ -195,14 +195,16 @@
           <div class="tokenimg"><img src="./img/token.svg"/></div>
           <h5>Stay updated with the latest news</h5>
           <div class="centered">
-             <form action="https://app.getresponse.com/add_subscriber.html" accept-charset="utf-8" method="post">
+             <form action="https://app.getresponse.com/add_subscriber.html" accept-charset="utf-8" method="post" class="">
                 <!-- Email field (required) -->
-                email: <input type="text" name="email"/><br/>
+                <input type="email" placeholder="Your email" name="email"/ class="text-color"><br/>
                 <!-- List token -->
                 <!-- Get the token at: https://app.getresponse.com/campaign_list.html -->
                 <input type="hidden" name="campaign_token" value="aZ69k" />
                 <!-- Subscriber button -->
-                <input type="submit" value="Subscribe"/>
+                  <button type="submit" value="Subscribe" class="transparent-btn"">
+                    <img src="./img/arrow.svg">
+                  </button>
             </form>
           </div>
           <div id="social" class="social-media-box">
