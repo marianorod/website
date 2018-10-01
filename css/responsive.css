@@ -27,7 +27,7 @@
 	.media { padding: 4rem 0; }
 	.media h1 { margin: 0 0 2rem 0 !important;}
 	nav .brand-logo { left: 0px !important; -webkit-transform: none !important; }
-	nav .li-margin { margin-top: calc(50vh - 263px); }
+	nav .li-margin { margin-top: calc(50vh - 350px); }
 	nav .sidenav-trigger { margin-right: 0 !important;}
 	section, footer { margin-top: -1px;}
 	.container {
