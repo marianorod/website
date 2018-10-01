@@ -141,8 +141,6 @@ nav .sidenav-trigger {
   margin: auto;
   text-align: center;
   font-weight: 600;
-  
- 
 }
 #mobile-nav a.fill-button:hover {
   color: #39e6e0;
@@ -156,7 +154,6 @@ nav .sidenav-trigger {
 #mobile-nav li.small-li {
   height: 2.5rem !important;
 }
-
 #mobile-nav li.small-li a{
   
 }
@@ -183,9 +180,7 @@ nav .sidenav-trigger {
 
 .no-border-below5 {
   border-bottom: none!important;
-  }
-
-
+}
 .side-nav {
   width: 100%;
 }
